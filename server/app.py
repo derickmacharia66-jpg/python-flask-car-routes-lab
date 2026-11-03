@@ -9,7 +9,8 @@ existing_models = [
     "Model 3",
     "Mustang",
     "Corolla",
-    "F-150"
+    "F-150",
+    "Crossroads"
 ]
 
 
